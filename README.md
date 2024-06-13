@@ -1,1 +1,1 @@
-# Hand-Sign-Detection
+# american-sign-language-detection
